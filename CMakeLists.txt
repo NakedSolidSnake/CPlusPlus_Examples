@@ -26,4 +26,7 @@ install(TARGETS ClassPerson DESTINATION bin)
 add_executable(BattleGame ${CMAKE_CURRENT_LIST_DIR}/05-BattleGame/main.cpp)
 install(TARGETS BattleGame DESTINATION bin)
 
+add_executable(Lambda ${CMAKE_CURRENT_LIST_DIR}/06-Lambda/main.cpp)
+install(TARGETS Lambda DESTINATION bin)
+
 

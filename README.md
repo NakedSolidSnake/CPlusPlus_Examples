@@ -9,3 +9,4 @@
 ### A small class to blueprint a Person
 ## 05-BattleGame
 ### A small game to train OOP
+## 06-Lambda
