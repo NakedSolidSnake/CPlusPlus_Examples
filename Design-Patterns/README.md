@@ -1,0 +1,9 @@
+# Design-Patterns
+## abstract_factory
+## builder
+## composite
+## factory_shapes
+## factory
+## singleton
+## state
+## strategy
