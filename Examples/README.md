@@ -14,3 +14,7 @@
 ## signal
 ## template
 ## thread_lambda
+## fileio
+## friendclass
+## operator_overload
+## function
